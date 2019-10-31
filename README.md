@@ -8,19 +8,19 @@ Sentimental-Analysis-of-Dianping-Comment，大众点评的情感细粒度分类�
 
 <p align="center">
   <!--快速在当前页面跳转的-->
-  <a href="# Quick-start">Quick-start</a> 
+  <a href="# Quick-start">Quick-start</a> ：•
   
   <a href="# Projects">Projects</a> ：•
 
 
   <a href="#deploy">Deploy</a> ：•
-  <a href="## Requirements">Requirements</a>•
+  <a href="##Requirements">Requirements</a>•
   <a href="## Ptyhon创建虚拟环境">Ptyhon创建虚拟环境</a> •
   
-  <a href="# Linux相关">Linux相关：</a>•
-  <a href="## linux部署指南">linux部署指南</a>•
-  <a href="## linux上杀死gunicorn的进程">linux上杀死gunicorn的进程</a>•
-  <a href="## linux根据端口号查找项目路径方法">linux根据端口号查找项目路径方法</a>•
+  <a href="#Linux相关">Linux相关：</a>•
+  <a href="##linux部署指南">linux部署指南</a>•
+  <a href="##linux上杀死gunicorn的进程">linux上杀死gunicorn的进程</a>•
+  <a href="##linux根据端口号查找项目路径方法">linux根据端口号查找项目路径方法</a>•
   
 </p>
 
